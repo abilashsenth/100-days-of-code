@@ -6,5 +6,5 @@
 
 **Thoughts:** ExpressJs combined with Node is really awesome, and GET POST requests are cool too... parsing JSON was easy since I was aquainted already with OpenWeatherAPI
 
-**Link to work:** [Weather App](https://github.com/abilashsenth/LearningWebProjects/tree/main/WeatherProject)
+**Link to work:** [Weather App](https://github.com/abilashsenth/LearningWebProjects/tree/main/WeatherProject) https://github.com/abilashsenth/LearningWebProjects/tree/main/WeatherProject
 
