@@ -10,7 +10,7 @@
 
 
 
-### Day 0: January 13, 2022 
+### Day 1: January 13, 2022 
 
 **Today's Progress**: Built a newsletter signup webapp in Express.js, worked with MailChimp API.
 
