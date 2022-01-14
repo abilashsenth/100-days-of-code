@@ -17,3 +17,10 @@
 **Thoughts:** Yet another express JS practice project, although I skipped a day I'm on the right track, Hoping to build momentum further on
 
 **Link to work:** [Newsletter Signup App](https://github.com/abilashsenth/LearningWebProjects/tree/main/Newsletter-Signup)
+
+
+### Day 2: January 14, 2022 
+
+**Today's Progress**: Learnt to host my day 1 MailChimp newsletter project in a heroku server today! And I kinda love it
+
+**Thoughts:** Oh and I also learnt to edit a text file using VIM, and I feel like a 90s hacking god. The more you learn 👀
