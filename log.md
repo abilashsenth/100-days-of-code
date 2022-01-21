@@ -42,3 +42,11 @@
 
 **Link to work:** [ToDoList-V1](https://github.com/abilashsenth/LearningWebProjects/tree/main/todolist-v1)
 
+### Day 5: January 21, 2022 
+
+**Today's Progress**:Built a blog that dynamically populates posts using EJS, and a bunch of get/post requests
+
+**Thoughts:** I wanted to bring in a bit more practice into dynamic content population with EJS, so this seems to be a fair challenge
+
+**Link to work:** [EJS blog challenge](https://github.com/abilashsenth/LearningWebProjects/tree/main/ejs-challenge)
+
