@@ -33,3 +33,12 @@
 **Thoughts:** EJS is pretty fun, i guess 😅 But the way to dynamically populate content is something that I'll have to practice to perfect
 
 **Link to work:** [ToDoList-V1](https://github.com/abilashsenth/LearningWebProjects/tree/main/todolist-v1)
+
+### Day 4: January 20, 2022 
+
+**Today's Progress**:Learnt some more EJS to perform more templating, and built a quick to-do list web app that makes use of it using Nodejs
+
+**Thoughts:** I'm trying to put more consistent effort into the challenge :)
+
+**Link to work:** [ToDoList-V1](https://github.com/abilashsenth/LearningWebProjects/tree/main/todolist-v1)
+
